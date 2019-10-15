@@ -1,0 +1,67 @@
+.styles {
+    height: 250px;
+    overflow: scroll;
+}
+
+.text {
+    position: absolute;
+    top: 44px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.hi {
+    height: 20px;
+    width: 90px;
+    padding: px;
+}
+
+.back-icon {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.main {
+    padding: 30px 70px
+}
+
+.cancel {
+    text-align: right
+}
+
+.filter {
+    margin-bottom: 10px;
+}
+
+.showfilter {
+    background-color: #d2d5d8;
+    padding: 16px 0;
+
+}
+
+.btns {
+    background-color: #d2d5d8 !important;
+}
+
+.top {
+    margin-top: 30px;
+}
+
+.moveleft {
+    padding-left: 60px;
+}
+
+.arrow {
+    color: #a1a3a5 !important
+}
+
+.date {
+    padding: 10px 20px;
+    margin: 0;
+}
